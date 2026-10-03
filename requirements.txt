@@ -1,0 +1,5 @@
+torch
+torchio
+nibabel
+requests
+matplotlib
